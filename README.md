@@ -1,13 +1,6 @@
 DevOps-course-STEP-2023
 =======================
 
-Cheat sheet
------------
-
-- NOTE: user data script is run as root so we don't need to execute commands within it using `sudo`
-- NOTE: Login to ami-01bc990364452ab3e as ec2-user
-- NOTE: Login to ami-053b0d53c279acc90 as ubuntu
-
 Show security groups (SG) all data:
 ```bash
 aws ec2 describe-security-groups
