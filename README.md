@@ -6,7 +6,7 @@ Guide
 
 - Start instance
 ```bash
-run-and-provision.sh
+./run-and-provision.sh
 ```
 
 - Originate local port forwarding
